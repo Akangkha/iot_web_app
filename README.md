@@ -47,7 +47,7 @@ Furry Friends Alliance is a non-profit organization dedicated to animal welfare.
 
 2. Install frontend dependencies:
    ```bash
-   npm install
+   yarn install
    ```
 
 5. Set up Firestore and Google Maps API, and update the configuration file with the necessary API keys and credentials.
@@ -55,7 +55,7 @@ Furry Friends Alliance is a non-profit organization dedicated to animal welfare.
 ## Usage
  Start the development server:
    ```bash
-   npm run dev
+   yarn run dev
    ```
 
 3. Open your browser and navigate to `http://localhost:3000` to access the application.
