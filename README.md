@@ -63,5 +63,6 @@ Dedicated to animal welfare. This innovative web application, built by our team,
 
 3. Open your browser and navigate to `http://localhost:3000` to access the application.
 
+<!--
 ### Important Note
-The current repository is a new version created for public access, while the original repository with 42 commits is kept private for security reasons. Therefore, the number of commits here does not reflect the complete history and development effort of the project of the developer. The original repository includes extensive development and iteration, demonstrating the full progression of the application.
+The current repository is a new version created for public access, while the original repository with 42 commits is kept private for security reasons. Therefore, the number of commits here does not reflect the complete history and development effort of the project of the developer. The original repository includes extensive development and iteration, demonstrating the full progression of the application. -->
