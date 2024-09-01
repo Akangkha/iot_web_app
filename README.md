@@ -44,7 +44,7 @@ Dedicated to animal welfare. This innovative web application, built by our team,
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Akangkha/furryfriendsalliance.git
+   git clone https://github.com/Akangkha/critter.git
    cd furry-friends-alliance
    ```
 
