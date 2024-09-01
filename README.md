@@ -45,7 +45,7 @@ Dedicated to animal welfare. This innovative web application, built by our team,
 1. Clone the repository:
    ```bash
    git clone https://github.com/Akangkha/critter.git
-   cd furry-friends-alliance
+   cd critter
    ```
 
 2. Install frontend dependencies:
