@@ -44,7 +44,7 @@ Dedicated to animal welfare. This innovative web application, built by our team,
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Akangkha/iot_web_app.git
+   git clone https://github.com/Akangkha/main_app.git
    cd iot_web_app
    ```
 
