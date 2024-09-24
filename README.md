@@ -1,4 +1,4 @@
-# Critter  - Web Application
+# Animal Welfare  - Web Application
 <!--
 ![image](https://github.com/user-attachments/assets/68111b9b-f580-4967-91b1-feeea8ff291a) -->
 
